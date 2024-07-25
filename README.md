@@ -1,13 +1,4 @@
-<link rel="stylesheet" href="./style.css">
-<style>
-    .text{ color:#cdd6f4; }
-    .red{ color:#f38ba8; }
-    .lavender{ color:#b4befe; }
-    .blue{ color:#89b4fa; }
-    .maroon{ color:#eba0ac; }
-    .mauve{ color:#cba6f7; }
-    .rosewater{ color:#f5e0dc; }
-</style>
+<link rel="stylesheet" href="./md.style.css">
 <pre style="color:#cdd6f4;" >
 <span style="color:#f38ba8;" ><b>junsee1412@GitHub</b></span>
 <span style="color:#89b4fa;" ><b>os</b></span>          linux
