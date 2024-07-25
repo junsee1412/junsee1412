@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="./md.style.css">
 <pre style="color:#cdd6f4;" >
 <span style="color:#f38ba8;" ><b>junsee1412@GitHub</b></span>
 <span style="color:#89b4fa;" ><b>os</b></span>          linux
@@ -6,4 +5,4 @@
 <span style="color:#cba6f7;" ><b>languages</b></span>   c c++ python shell
 </pre>
 
-<p style="color : aqua">text</p>
+$\color{rgb(205, 214, 244)}{\textsf{lorem ipsum}}$
