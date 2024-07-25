@@ -1,5 +1,4 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="github-markdown.css">
+<link rel="stylesheet" href="./style.css">
 <style>
     .text{ color:#cdd6f4; }
     .red{ color:#f38ba8; }
